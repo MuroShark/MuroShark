@@ -57,7 +57,7 @@ I am a dedicated software developer transitioning into professional engineering 
 > *LotoCroot is a specialized service for live broadcasts that enables streamers to conduct real-time auctions. Currently operating as a browser-based client, with OBS integration and multi-device support actively under development.*
 
 <a href="https://lotocroot.vercel.app">
-  <img src="ВСТАВЬ_СЮДА_ССЫЛКУ_НА_GIF_ИЗ_GITHUB_ISSUES" alt="LotoCroot Demo" width="100%" />
+  <img src="https://github.com/user-attachments/assets/9a124d4c-7753-47f8-b7e0-416684555afc" alt="LotoCroot Demo" width="100%" />
 </a>
 
 <br />
