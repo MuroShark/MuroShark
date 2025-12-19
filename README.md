@@ -68,6 +68,7 @@ I am a dedicated software developer transitioning into professional engineering 
 | **Real-Time Bidding Engine** <br> *Instant sync between streamer and viewers* | **WebSockets** | ✅ Live |
 | **Streamer Control Panel** <br> *Manage lots, timers, and winners* | **Next.js & Zustand** | ✅ Live |
 | **Multi-Device Support** <br> *Responsive design for mobile & tablets* | **CSS / Media Queries** | 🔄 In Progress |
+| **Localization** <br> *Currently Russian only* | **i18n** | 🔄 In Progress |
 
 <div align="center">
   <a href="https://github.com/MuroShark/LotoCroot">
