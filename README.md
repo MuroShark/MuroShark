@@ -1,9 +1,5 @@
 <div align="center">
 
-  <img src="https://via.placeholder.com/1500x500/0F172A/38BDF8?text=Building+Tools+for+the+Creator+Economy" alt="Profile Banner" width="100%" />
-
-  <h1 align="center">Hi, I'm MuroShark 👋</h1>
-
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Software+Developer;Building+for+Streamers;Open+Source+Contributor" alt="Typing SVG" />
   </a>
@@ -11,57 +7,87 @@
   <p align="center">
     <b> 🚀 Focus: Real-time Auction Systems & Interactive Overlays </b>
   </p>
+
+  <p align="center">
+    <a href="https://t.me/muroshark" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    </a>
+    <a href="mailto:shgefan.zhora@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=MuroShark&style=for-the-badge&color=blue" alt="Profile Views" />
+  </p>
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
-I am transitioning into professional development by building high-performance tools for content creators. [cite_start]My mission is to solve latency issues in the live-streaming economy. [cite: 136]
+I am a dedicated software developer transitioning into professional engineering by building high-performance tools for content creators. My passion lies in solving complex latency issues in the live-streaming economy and creating seamless interactive experiences.
 
 - 🔭 I’m currently building **LotoCroot** — a low-latency PointAuc alternative.
+- 👯 I’m looking to collaborate on **Open Source projects for Streamers**.
 - ⚡ **Core Philosophy:** Performance, Stability, and "Gamer-First" UX.
-- 🤝 I’m looking to collaborate on **WebSocket-based tools** and **OBS integrations**.
 
 ---
 
 ### 🛠 Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<div align="center">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <br>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <br>
   <img src="https://img.shields.io/badge/WebSockets-black?style=for-the-badge&logo=socket.io&badgeColor=010101" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+</div>
 
 ---
 
-### 🚧 Featured Project: LotoCroot
+###  Featured Project: LotoCroot
 
-> [cite_start]*A real-time auction platform designed to eliminate latency for Twitch/YouTube streamers.* [cite: 150]
+**Interactive Auction Service for Streamers**
 
-<img src="https://via.placeholder.com/800x400/1A1A1A/FFD700?text=Place+Your+App+Demo+GIF+Here" alt="Project Demo" width="100%" />
+> *LotoCroot is a specialized service for live broadcasts that enables streamers to conduct real-time auctions. Currently operating as a browser-based client, with OBS integration and multi-device support actively under development.*
 
-| Feature | Tech Used | Status |
+<a href="https://lotocroot.vercel.app">
+  <img src="ВСТАВЬ_СЮДА_ССЫЛКУ_НА_GIF_ИЗ_GITHUB_ISSUES" alt="LotoCroot Demo" width="100%" />
+</a>
+
+<br />
+
+| 🎯 Core Features | ⚡ Tech Under the Hood | 🛠 Status |
 | :--- | :--- | :--- |
-| **Real-time Bidding** | WebSockets | ✅ Live |
-| **Overlay Integration** | OBS Browser Source | 🔄 In Progress |
-| **Dark Mode UI** | Tailwind CSS | ✅ Live |
+| **Live Auction Overlay** <br> *Embeddable widget for OBS/Streamlabs* | **React & Tailwind** | 🚧 Planned |
+| **Real-Time Bidding Engine** <br> *Instant sync between streamer and viewers* | **WebSockets** | ✅ Live |
+| **Streamer Control Panel** <br> *Manage lots, timers, and winners* | **Next.js & Zustand** | ✅ Live |
+| **Multi-Device Support** <br> *Responsive design for mobile & tablets* | **CSS / Media Queries** | 🔄 In Progress |
 
-• [**Live Demo**](https://lotocroot.vercel.app)
+<div align="center">
+  <a href="https://github.com/MuroShark/LotoCroot">
+    <img src="https://img.shields.io/badge/GitHub-View_Source-181717?style=for-the-badge&logo=github" alt="View Source" />
+  </a>
+  &nbsp;
+  <a href="https://lotocroot.vercel.app">
+    <img src="https://img.shields.io/badge/Website-Live_Demo-FFD700?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo" />
+  </a>
+</div>
 
 ---
 
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[ВАШ_НИК]&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[ВАШ_НИК]&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MuroShark&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuroShark&layout=compact&theme=tokyonight&hide_border=true" height="100" alt="languages graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[ВАШ_НИК]&theme=tokyonight&hide_border=true" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuroShark&theme=tokyonight&hide_border=true" alt="streak stats" />
 </div>
