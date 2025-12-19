@@ -1,3 +1,9 @@
+<div align="right">
+  <a href="./README_RU.md">
+    <img src="https://img.shields.io/badge/Язык-Русский-blue?style=for-the-badge&logo=ru" alt="Switch to Russian" />
+  </a>
+</div>
+
 <div align="center">
 
   <a href="https://git.io/typing-svg">
