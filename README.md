@@ -87,7 +87,3 @@ I am a dedicated software developer transitioning into professional engineering 
   <img src="https://github-readme-stats.vercel.app/api?username=MuroShark&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuroShark&layout=compact&theme=tokyonight&hide_border=true" height="100" alt="languages graph" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuroShark&theme=tokyonight&hide_border=true" alt="streak stats" />
-</div>
