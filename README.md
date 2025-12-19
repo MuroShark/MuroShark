@@ -85,6 +85,6 @@ I am a dedicated software developer transitioning into professional engineering 
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuroShark&show_icons=true&theme=tokyonight&hide_border=true&v=1" height="175" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuroShark&layout=compact&theme=tokyonight&hide_border=true&v=1" height="175" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MuroShark&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&v=1" height="175" alt="stats graph" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuroShark&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&v=1" height="175" alt="languages graph" align="center" />
 </div>
